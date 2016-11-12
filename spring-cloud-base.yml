@@ -1,0 +1,19 @@
+
+spring:
+    application:
+        name: spring-cloud-base
+
+server:
+    port: 20005
+
+endpoints:
+    restart:
+        enabled: true
+    shutdown:
+        enabled: true
+    health:
+        sensitive: false
+
+
+
+
