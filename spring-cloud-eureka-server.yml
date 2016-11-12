@@ -2,3 +2,8 @@
 
 server:
     port: 21000
+
+
+config:
+    value1: DemoValue1
+
